@@ -1,0 +1,2 @@
+puts "du rouge !"
+
